@@ -1,0 +1,3 @@
+C:\Qt\Tools\CMake_64\bin\cmake.exe -E rm -f CMakeFiles\op_lab1_on_c.dir/objects.a
+C:\Qt\Tools\mingw1310_64\bin\ar.exe qc CMakeFiles\op_lab1_on_c.dir/objects.a @CMakeFiles\op_lab1_on_c.dir\objects1.rsp
+C:\Qt\Tools\mingw1310_64\bin\g++.exe -g -mwindows -Wl,--whole-archive CMakeFiles\op_lab1_on_c.dir/objects.a -Wl,--no-whole-archive -o op_lab1_on_c.exe -Wl,--out-implib,libop_lab1_on_c.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\op_lab1_on_c.dir\linkLibs.rsp
